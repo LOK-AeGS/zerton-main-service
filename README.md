@@ -5,12 +5,14 @@
 ---
 ## 👉🏻 프로젝트 소개
 
+![Rentree5](https://github.com/user-attachments/assets/254c418f-59a1-47ca-8814-fdf2323320df) 
 
 ✨ "소비는 줄이고, 나눔은 늘리고." 학교 안에서 시작하는 제로웨이스트 공유경제 플랫폼 🥳
 
 ---
 ## 🛠 프로젝트 아키텍쳐
-![아키텍처](Retree.drawio.png)
+![Retree drawio (3)](https://github.com/user-attachments/assets/cc84446a-c1fa-4875-ae1e-41f11a15925b)
+
 ---
 
 ## ⚙️ 기술 스택
@@ -44,8 +46,9 @@
 
 ## 🖼️ 시연 이미지
 
-| 메인 페이지 | 게시판 |
-|-------------|--------|
-| ![main](https://your-image-link.com/main.png) | ![board](https://your-image-link.com/board.png) |
+| 메인 페이지 | 채팅 | 상세페이지 | 내물품 |
+|-------------|--------| ----- | -----------|
+|  ![rentree1](https://github.com/user-attachments/assets/f5d40cd3-1dd9-421b-a5c6-8be76293b87d) | ![Rentree4](https://github.com/user-attachments/assets/750baa75-83e0-478d-9bf8-2af61de229e2) | ![Rentree3](https://github.com/user-attachments/assets/77f37b9f-92fa-4266-8a00-2b2535b55342) | ![Rentree2](https://github.com/user-attachments/assets/6c5cb17a-da6a-48c1-a0d3-d54c839ce909) |
+
 
 ---
